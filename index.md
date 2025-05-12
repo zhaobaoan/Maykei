@@ -1,6 +1,6 @@
 # 📘 Instrument Technical Documents
 
-Welcome to **YourCompany Instruments'** official technical document site.
+Welcome to **maykei Instruments'** official technical document site.
 
 We provide high-quality documentation for various measurement instruments, including:
 
@@ -25,13 +25,13 @@ Each document is free to download and designed for engineers, procurement manage
 
 For product support or custom inquiries:
 
-- 📧 Email: [sales@yourcompany.com](mailto:sales@yourcompany.com)  
-- 🌐 Website: [www.yourcompany.com](https://www.yourcompany.com)  
-- 📞 WhatsApp: +86 139-0000-0000
+- 📧 Email: [mark@maykei.com.com](mailto:mark@maykei.com.com)  
+- 🌐 Website: [maykei.com](https://maykei.com)  
+- 📞 WhatsApp: +86 132-6542-0991
 
 ![Scan to connect](assets/qr-code.png)
 
 ---
 
-© 2025 YourCompany Instruments. All rights reserved.  
+© 2025 Maykei Instruments. All rights reserved.  
 Documents are shared for reference and informational use only.
