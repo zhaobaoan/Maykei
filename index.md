@@ -15,8 +15,10 @@ Each document is free to download and designed for engineers, procurement manage
 
 ## 📂 Download Technical Documents
 
-🔧 [Multimeter Manual](docs/multimeter.pdf)  
-📡 [Oscilloscope User Guide](docs/oscilloscope.pdf)  
+🔧 [RIGOL DG1000Z User Guide](https://github.com/zhaobaoan/User-Guide/blob/main/DG1000Z%20User%20Guide.pdf) 
+📡 [RIGOL DG2000 User Guide](https://github.com/zhaobaoan/User-Guide/blob/main/DG2000%20User%20Guide.pdf) 
+📡 [RIGOL DG4000 User Manual](https://github.com/zhaobaoan/User-Guide/blob/main/DG4000%20User%20Manual.pdf)
+
 📘 More coming soon...
 
 ---
